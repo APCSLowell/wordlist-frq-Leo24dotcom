@@ -19,6 +19,7 @@ public class WordList
       return count;
     
   }
+  }
 
   public void removeWordsOfLength(int len)
   {
@@ -29,4 +30,5 @@ public class WordList
       i--;
   }
 }
+  }
   }
